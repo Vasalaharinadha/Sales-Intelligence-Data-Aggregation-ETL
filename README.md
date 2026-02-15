@@ -1,4 +1,3 @@
-# Sales-Intelligence-Data-Aggregation-ETL
 
 # Sales Intelligence Data Aggregation & ETL Pipeline
 
